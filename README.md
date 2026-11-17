@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=shashwat2120&style=for-the-badge&color=0969da&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
-I build software where **deterministic rules own the facts and AI handles the judgment calls**: accessibility audits that cite WCAG, a college platform where AI explains grades but never invents them, translation that runs privately in your browser. Currently a **software engineer at Academian** in Pune, India. Studied at SRM Institute of Science and Technology, Chennai.
+I build software where **deterministic rules own the facts and AI handles the judgment calls**: accessibility audits that cite WCAG, a college platform where AI explains grades but never invents them, translation that runs privately in your browser. Currently a **software engineer at [Academian](https://academian.com/)** in Pune, India. Studied at SRM Institute of Science and Technology, Chennai.
 
 ### 🧭 Pick your path
 
