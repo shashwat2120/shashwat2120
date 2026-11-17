@@ -1,7 +1,7 @@
 <!-- Animated terminal header. Edit scripts/make_header.py and re-run it to change the text. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="Shashwat Mishra, software engineer in Chennai, building AI agents, accessibility tech and Indian-language tools.">
+  <img src="./assets/header-light.svg" width="100%" alt="Shashwat Mishra, software engineer at Academian in Pune, building AI agents, accessibility tech and Indian-language tools.">
 </picture>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=shashwat2120&style=for-the-badge&color=0969da&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
-I build software where **deterministic rules own the facts and AI handles the judgment calls**: accessibility audits that cite WCAG, a college platform where AI explains grades but never invents them, translation that runs privately in your browser. Studying at **SRM Institute of Science and Technology**, Chennai.
+I build software where **deterministic rules own the facts and AI handles the judgment calls**: accessibility audits that cite WCAG, a college platform where AI explains grades but never invents them, translation that runs privately in your browser. Currently a **software engineer at Academian** in Pune, India. Studied at SRM Institute of Science and Technology, Chennai.
 
 ### 🧭 Pick your path
 

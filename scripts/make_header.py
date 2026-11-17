@@ -9,7 +9,7 @@ from xml.sax.saxutils import escape
 
 # Each entry: (command typed after "$ ", output line as [(text, colour-key, bold)])
 LINES = [
-    ("whoami", [("Shashwat Mishra", "fg", True), ("  ·  software engineer  ·  Chennai, India", "muted", False)]),
+    ("whoami", [("Shashwat Mishra", "fg", True), ("  ·  software engineer @ Academian  ·  Pune, India", "muted", False)]),
     ("cat focus.txt", [("AI agents", "blue", False), ("  ·  ", "muted", False),
                        ("accessibility tech", "blue", False), ("  ·  ", "muted", False),
                        ("Indian-language tools", "blue", False)]),
@@ -29,7 +29,7 @@ THEMES = {
 FONT = "ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace"
 SIZE, CHAR_W, W = 18, 10.8, 900
 TYPE_S, PAUSE_S, LINE_GAP = 0.06, 0.25, 78
-ALT = ("Shashwat Mishra, software engineer in Chennai, building AI agents, accessibility tech "
+ALT = ("Shashwat Mishra, software engineer at Academian in Pune, building AI agents, accessibility tech "
        "and Indian-language tools")
 
 
