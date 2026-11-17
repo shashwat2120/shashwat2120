@@ -6,9 +6,7 @@
 
 <p align="center">
   <a href="https://accesslens-hdap.onrender.com"><img src="https://img.shields.io/badge/Live%20demo-AccessLens-8250df?style=for-the-badge&logo=render&logoColor=white" alt="AccessLens live demo"></a>
-  <!-- Add your LinkedIn: replace YOUR-LINKEDIN and remove the comment markers.
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  -->
+  <a href="https://www.linkedin.com/in/shashwat-mishra"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=shashwat2120&style=for-the-badge&color=0969da&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
